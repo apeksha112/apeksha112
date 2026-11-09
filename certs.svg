@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 210" width="1280" height="210" role="img" aria-label="Certifications: Microsoft Certified Power BI Data Analyst (PL-300). Microsoft Certified Power Platform Fundamentals (PL-900).">
+<title>Certifications: Microsoft Certified Power BI Data Analyst (PL-300). Microsoft Certified Power Platform Fundamentals (PL-900).</title>
+<style>.t{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI Variable Display','Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif;}</style>
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151519"/><stop offset="1" stop-color="#0c0c0f"/></linearGradient>
+    <linearGradient id="r1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2997ff"/><stop offset="1" stop-color="#5e5ce6"/></linearGradient>
+    <linearGradient id="r2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bf5af2"/><stop offset="1" stop-color="#ff6482"/></linearGradient>
+    </defs>
+
+<g transform="translate(0,0)">
+  <rect width="616" height="210" rx="30" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="615" height="209" rx="30" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="92" cy="105" r="40" fill="none" stroke="url(#r1)" stroke-width="4"/>
+  <path d="M74 106l13 13 24-28" fill="none" stroke="url(#r1)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="t" x="160" y="80" font-size="15" font-weight="600" letter-spacing="3" fill="#a1a1a6">MICROSOFT CERTIFIED</text>
+  <text class="t" x="160" y="124" font-size="29" font-weight="650" letter-spacing="-.4" fill="#f5f5f7">Power BI Data Analyst</text>
+  <rect x="160" y="141" width="92" height="32" rx="16" fill="#2997ff" fill-opacity=".18"/>
+  <text class="t" x="206" y="163" text-anchor="middle" font-size="17" font-weight="650" fill="#2997ff">PL-300</text>
+</g>
+
+<g transform="translate(664,0)">
+  <rect width="616" height="210" rx="30" fill="url(#bg)"/>
+  <rect x=".5" y=".5" width="615" height="209" rx="30" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+  <circle cx="92" cy="105" r="40" fill="none" stroke="url(#r2)" stroke-width="4"/>
+  <path d="M74 106l13 13 24-28" fill="none" stroke="url(#r2)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="t" x="160" y="80" font-size="15" font-weight="600" letter-spacing="3" fill="#a1a1a6">MICROSOFT CERTIFIED</text>
+  <text class="t" x="160" y="124" font-size="29" font-weight="650" letter-spacing="-.4" fill="#f5f5f7">Power Platform Fundamentals</text>
+  <rect x="160" y="141" width="92" height="32" rx="16" fill="#bf5af2" fill-opacity=".18"/>
+  <text class="t" x="206" y="163" text-anchor="middle" font-size="17" font-weight="650" fill="#bf5af2">PL-900</text>
+</g>
+</svg>

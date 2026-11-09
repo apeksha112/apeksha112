@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="One workflow, end to end: 1 Ingest and model with Airflow, ETL / ELT, star schema and Microsoft Fabric. 2 Clean and validate with Pandas, data quality checks and source reconciliation. 3 Analyze with SQL window functions, EDA, statistics and KPIs. 4 Visualize with Power BI, DAX and Tableau for stakeholder reporting.">
+<title>One workflow, end to end: 1 Ingest and model with Airflow, ETL / ELT, star schema and Microsoft Fabric. 2 Clean and validate with Pandas, data quality checks and source reconciliation. 3 Analyze with SQL window functions, EDA, statistics and KPIs. 4 Visualize with Power BI, DAX and Tableau for stakeholder reporting.</title>
+<style>.t{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Segoe UI Variable Display','Segoe UI','Inter','Helvetica Neue',Helvetica,Arial,sans-serif;}
+    .n{opacity:0;animation:pop .9s cubic-bezier(.2,.7,.2,1) forwards}
+    .n1{animation-delay:.1s}.n2{animation-delay:.3s}.n3{animation-delay:.5s}.n4{animation-delay:.7s}
+    @keyframes pop{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion:reduce){.n{animation:none;opacity:1}}
+    </style>
+<defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#141418"/><stop offset="1" stop-color="#0a0a0c"/></linearGradient>
+    <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2997ff"/><stop offset=".38" stop-color="#5e5ce6"/><stop offset=".7" stop-color="#bf5af2"/><stop offset="1" stop-color="#ff6482"/>
+    </linearGradient>
+    <filter id="gl" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="9"/></filter>
+    </defs>
+<rect width="1280" height="340" rx="34" fill="url(#bg)"/>
+<rect x=".5" y=".5" width="1279" height="339" rx="34" fill="none" stroke="#ffffff" stroke-opacity=".1"/>
+<rect x="200" y="89" width="880" height="3" rx="1.5" fill="url(#ln)" opacity=".85"/>
+
+<g class="n n1">
+  <circle cx="200" cy="90.5" r="30" fill="#2997ff" opacity=".55" filter="url(#gl)"/>
+  <circle cx="200" cy="90.5" r="27" fill="#0a0a0c" stroke="#2997ff" stroke-width="2.5"/>
+  <text class="t" x="200" y="99" text-anchor="middle" font-size="26" font-weight="700" fill="#f5f5f7">1</text>
+  <text class="t" x="200" y="176" text-anchor="middle" font-size="31" font-weight="650" letter-spacing="-.4" fill="#f5f5f7">Ingest &amp; model</text>
+  <text class="t" x="200" y="228" text-anchor="middle" font-size="22" fill="#a1a1a6">Airflow · ETL / ELT</text><text class="t" x="200" y="262" text-anchor="middle" font-size="22" fill="#a1a1a6">Star schema · Fabric</text>
+</g>
+
+<g class="n n2">
+  <circle cx="493" cy="90.5" r="30" fill="#5e5ce6" opacity=".55" filter="url(#gl)"/>
+  <circle cx="493" cy="90.5" r="27" fill="#0a0a0c" stroke="#5e5ce6" stroke-width="2.5"/>
+  <text class="t" x="493" y="99" text-anchor="middle" font-size="26" font-weight="700" fill="#f5f5f7">2</text>
+  <text class="t" x="493" y="176" text-anchor="middle" font-size="31" font-weight="650" letter-spacing="-.4" fill="#f5f5f7">Clean &amp; validate</text>
+  <text class="t" x="493" y="228" text-anchor="middle" font-size="22" fill="#a1a1a6">Pandas · Data quality</text><text class="t" x="493" y="262" text-anchor="middle" font-size="22" fill="#a1a1a6">Source reconciliation</text>
+</g>
+
+<g class="n n3">
+  <circle cx="787" cy="90.5" r="30" fill="#bf5af2" opacity=".55" filter="url(#gl)"/>
+  <circle cx="787" cy="90.5" r="27" fill="#0a0a0c" stroke="#bf5af2" stroke-width="2.5"/>
+  <text class="t" x="787" y="99" text-anchor="middle" font-size="26" font-weight="700" fill="#f5f5f7">3</text>
+  <text class="t" x="787" y="176" text-anchor="middle" font-size="31" font-weight="650" letter-spacing="-.4" fill="#f5f5f7">Analyze</text>
+  <text class="t" x="787" y="228" text-anchor="middle" font-size="22" fill="#a1a1a6">SQL · Window functions</text><text class="t" x="787" y="262" text-anchor="middle" font-size="22" fill="#a1a1a6">EDA · Statistics · KPIs</text>
+</g>
+
+<g class="n n4">
+  <circle cx="1080" cy="90.5" r="30" fill="#ff6482" opacity=".55" filter="url(#gl)"/>
+  <circle cx="1080" cy="90.5" r="27" fill="#0a0a0c" stroke="#ff6482" stroke-width="2.5"/>
+  <text class="t" x="1080" y="99" text-anchor="middle" font-size="26" font-weight="700" fill="#f5f5f7">4</text>
+  <text class="t" x="1080" y="176" text-anchor="middle" font-size="31" font-weight="650" letter-spacing="-.4" fill="#f5f5f7">Visualize</text>
+  <text class="t" x="1080" y="228" text-anchor="middle" font-size="22" fill="#a1a1a6">Power BI · DAX · Tableau</text><text class="t" x="1080" y="262" text-anchor="middle" font-size="22" fill="#a1a1a6">Stakeholder reporting</text>
+</g>
+</svg>
