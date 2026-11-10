@@ -50,8 +50,7 @@ I hold a B.Tech in Computer Science and I'm Microsoft PL-300 certified. I enjoy 
 
 | Project | Stack | What I built |
 |:--|:--|:--|
-| **End-to-End ETL Pipeline** | `Python` `Apache Airflow` `SQL` | • Scheduled pipeline through raw, staging and analytics layers<br/>• Data-quality checks and failure alerts, documented on GitHub<br/>[View on GitHub →](https://github.com/apeksha112?tab=repositories) |
-| **Marketing & Operations BI Dashboard** | `SQL` `Python` `Power BI` | • Star-schema model with a KPI dashboard on top<br/>• Findings turned into insights and recommended actions<br/>[View on GitHub →](https://github.com/apeksha112?tab=repositories) |
+| **Aasaan-Home-Service-Web-App** | `Python` `SQL` | • Scheduled pipeline through raw, staging and analytics layers<br/>• Data-quality checks and failure alerts, documented on GitHub<br/>[View on GitHub →](https://github.com/apeksha112?tab=repositories) |
 
 ### Contact
 
