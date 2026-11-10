@@ -25,10 +25,16 @@
 
 ---
 
-### 👩‍💻 About Me
+ 
 
 <p style="font-family: Arial, sans-serif; line-height: 1.8; font-size: 15px;">
-Computer Science graduate with 1+ year of hands-on experience in Data Analytics and Analytics Engineering, specializing in architecting resilient data pipelines and building high-impact business intelligence solutions. Over the past year, I have focused on transforming high-volume, disparate data sources into clear, actionable metrics using Python, advanced SQL, and Power BI. My core philosophy centers on high data fidelity: implementing proactive automated validation checks such as duplicate elimination, null-handling safeguards, and source-to-target reconciliation before any record reaches an executive dashboard. As a Microsoft Certified Power BI Data Analyst (PL-300), I bridge the gap between engineering infrastructure and boardroom decision-making with scalable, trustworthy numbers.
+Hi, I’m <b>Apeksha</b>! 👋
+<br/><br/>
+I’m a <b>Computer Science graduate</b> and <b>Data Analyst</b> with over a year of experience turning messy, raw data into reliable business dashboards. I specialize in the full data workflow by building backend data pipelines using <b>Python</b>, <b>SQL</b>, and <b>Airflow</b>, and delivering executive ready dashboards in <b>Power BI</b>.
+<br/><br/>
+A big priority in my work is <b>data quality</b>: I make sure validation rules (<b>null checks</b>, <b>duplicate handling</b>, <b>source reconciliation</b>) are baked right into the pipeline so teams can actually trust the numbers they see. I am also a <b>Microsoft Certified Power BI Data Analyst (PL 300)</b>.
+<br/><br/>
+Always excited to work across <b>data engineering</b>, <b>pipeline automation</b>, and <b>business analytics</b>.
 </p>
 
 <br/>
@@ -68,7 +74,7 @@ Computer Science graduate with 1+ year of hands-on experience in Data Analytics 
 
 ### 📜 Certifications
 
-- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+  **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
 
 <br/>
 
@@ -178,4 +184,4 @@ Computer Science graduate with 1+ year of hands-on experience in Data Analytics 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCED8,50:FFDDDD,100:FFE8C4&height=100&section=footer" width="100%" alt="Footer" />
 
-</div>
+</div> 
