@@ -1,8 +1,5 @@
-<!-- Replace before publishing: YOUR_LINKEDIN_ID | https://YOUR-PORTFOLIO.com | https://YOUR-BLOG.com | REPO-NAME -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCED8,50:FFDDDD,100:FFE8C4&height=120&section=header" width="100%" alt="" />
-
-<h1 align="center">Apeksha B</h1>
+<h1 align="center">Apeksha.B</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&color=C8577B&center=true&vCenter=true&width=560&height=40&lines=Turning+raw+data+into+decisions.;Dashboards+and+the+pipelines+behind+them.;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Airflow" alt="Turning raw data into decisions" />
@@ -21,7 +18,7 @@
 
 Hi, I'm Apeksha, a Data Analyst who also builds the pipelines behind the dashboards. Over the past year I've used SQL, Python and Power BI to turn raw data into reports that teams rely on every day, backed by Airflow, ETL / ELT and star-schema models so the data behind every chart is clean and reliable. What I care about most is the step people skip: validating data (duplicates, nulls, reconciliation against the source) before it reaches a dashboard, so stakeholders can trust the numbers.
 
-I hold a B.Tech in Computer Science (2026) and I'm Microsoft PL-300 certified. I enjoy owning the whole journey from raw data to a decision someone can act on, in analytics or in data engineering.
+I hold a B.Tech in Computer Science and I'm Microsoft PL-300 certified. I enjoy owning the whole journey from raw data to a decision someone can act on, in analytics or in data engineering.
 
 ### Skills
 
@@ -54,8 +51,7 @@ I hold a B.Tech in Computer Science (2026) and I'm Microsoft PL-300 certified. I
 | Project | Stack | What I built |
 |:--|:--|:--|
 | **End-to-End ETL Pipeline** | `Python` `Apache Airflow` `SQL` | • Scheduled pipeline through raw, staging and analytics layers<br/>• Data-quality checks and failure alerts, documented on GitHub<br/>[View on GitHub →](https://github.com/apeksha112?tab=repositories) |
-| **Sales / Customer Analytics Dashboard** | `SQL` `Python` `Power BI` | • Star-schema model with a KPI dashboard on top<br/>• Findings turned into insights and recommended actions<br/>[View on GitHub →](https://github.com/apeksha112?tab=repositories) |
-| **LocalSeva** | Published research · IJRASET | • Web-based local service aggregation platform<br/>• Published as a research paper in IJRASET<br/>[Read the paper →](https://www.ijraset.com/research-paper/localseva-a-web-based-local-service-aggregation-platform) |
+| **Marketing & Operations BI Dashboard** | `SQL` `Python` `Power BI` | • Star-schema model with a KPI dashboard on top<br/>• Findings turned into insights and recommended actions<br/>[View on GitHub →](https://github.com/apeksha112?tab=repositories) |
 
 ### Contact
 
