@@ -28,13 +28,8 @@
  
 
 <p style="font-family: Arial, sans-serif; line-height: 1.8; font-size: 15px;">
-Hi, I’m <b>Apeksha</b>! 👋
-<br/><br/>
-I’m a <b>Computer Science graduate</b> and <b>Data Analyst</b> with over a year of experience turning messy, raw data into reliable business dashboards. I specialize in the full data workflow by building backend data pipelines using <b>Python</b>, <b>SQL</b>, and <b>Airflow</b>, and delivering executive ready dashboards in <b>Power BI</b>.
-<br/><br/>
-A big priority in my work is <b>data quality</b>: I make sure validation rules (<b>null checks</b>, <b>duplicate handling</b>, <b>source reconciliation</b>) are baked right into the pipeline so teams can actually trust the numbers they see. I am also a <b>Microsoft Certified Power BI Data Analyst (PL 300)</b>.
-<br/><br/>
-Always excited to work across <b>data engineering</b>, <b>pipeline automation</b>, and <b>business analytics</b>.
+Hi, I’m <b>Apeksha</b>! 👋<b><br>
+Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</b>, currently working toward becoming an <b>Analytics Engineer</b>. I build data pipelines using <b>Python</b>, <b>SQL</b>, and <b>Airflow</b>, and develop reliable business dashboards in <b>Power BI</b>. My primary focus is <b>data quality</b>, setting up automated validation checks for <b>null values</b>, <b>duplicate records</b>, and <b>source reconciliation</b> so teams have trustworthy data for decision-making. I am a <b>Microsoft Certified Power BI Data Analyst (PL 300)</b> and open to roles across <b>data analysis</b> and <b>analytics engineering</b>.
 </p>
 
 <br/>
