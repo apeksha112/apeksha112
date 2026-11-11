@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCED8,50:FFDDDD,100:FFE8C4&height=180&section=header&text=Apeksha%20B&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Analytics%20Engineer&descSize=18&descAlignY=62&fontFamily=Arial" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A0B5,50:F9B7B9,100:FFC98B&height=200&section=header&text=Apeksha%20B&fontSize=46&fontColor=2B1B20&fontAlignY=38&animation=fadeIn&desc=Data%20Analyst%20%C2%B7%20Analytics%20Engineer&descSize=18&descAlignY=62&fontFamily=Times%20New%20Roman" width="100%" alt="Header Banner" />
 
 <br/>
 
@@ -25,9 +25,7 @@
 
 ---
 
- 
-
-<p style="font-family: Arial, sans-serif; line-height: 1.8; font-size: 15px;">
+<p>
 Hi, I’m <b>Apeksha</b>! 👋<b><br>
 Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</b>, currently working toward becoming an <b>Analytics Engineer</b>. I build data pipelines using <b>Python</b>, <b>SQL</b>, and <b>Airflow</b>, and develop reliable business dashboards in <b>Power BI</b>. My primary focus is <b>data quality</b>, setting up automated validation checks for <b>null values</b>, <b>duplicate records</b>, and <b>source reconciliation</b> so teams have trustworthy data for decision-making. I am a <b>Microsoft Certified Power BI Data Analyst (PL 300)</b> and open to roles across <b>data analysis</b> and <b>analytics engineering</b>.
 </p>
@@ -79,7 +77,7 @@ Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</
 
 <table width="100%">
   <tr>
-    <td width="33.33%" valign="top">
+    <td width="48%" valign="top">
       <h3 align="center">🛠️ Aasaan Home Service Web App</h3>
       <p align="center">
         <a href="https://github.com/apeksha112/Aasaan-Home-Service-Web-App" target="_blank">
@@ -100,7 +98,8 @@ Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</
         <li>Integrated AI Vision API extracting JSON metadata from user images to automate service categorization.</li>
       </ul>
     </td>
-    <td width="33.33%" valign="top">
+    <td width="4%"></td>
+    <td width="48%" valign="top">
       <h3 align="center">📊 Marketing Operations BI Dashboard</h3>
       <p align="center">
         <a href="https://github.com/apeksha112/Marketing-Operations-BI-Dashboard" target="_blank">
@@ -119,27 +118,6 @@ Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</
         <li>Engineered an interactive executive BI dashboard monitoring marketing campaign spend, conversion funnels, and ROI.</li>
         <li>Designed a dimensional star schema utilizing advanced DAX measures for dynamic time intelligence and period comparisons.</li>
         <li>Streamlined recurring reporting workflows, reducing stakeholder reporting cycles and manual spreadsheet tracking.</li>
-      </ul>
-    </td>
-    <td width="33.33%" valign="top">
-      <h3 align="center">⚡ Automated Sales ETL Pipeline</h3>
-      <p align="center">
-        <a href="https://github.com/apeksha112" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-FFE8C4?style=for-the-badge&logo=github&logoColor=black&labelColor=FFCED8" alt="GitHub Repo" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" /><br/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/ETL_Pipeline-E65100?style=flat-square" />
-      </p>
-      <ul>
-        <li>Engineered an automated end-to-end Python (Pandas) pipeline automating raw data extraction, cleaning, and preprocessing.</li>
-        <li>Built a normalized PostgreSQL database schema using CTEs and indexing to optimize analytical retrieval latency.</li>
-        <li>Connected the database to live Power BI reports, turning transactional logs into continuous operational metrics.</li>
       </ul>
     </td>
   </tr>
@@ -177,6 +155,6 @@ Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCED8,50:FFDDDD,100:FFE8C4&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A0B5,50:F9B7B9,100:FFC98B&height=110&section=footer" width="100%" alt="Footer" />
 
-</div> 
+</div>
