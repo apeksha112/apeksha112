@@ -11,7 +11,7 @@
 </a>
 
 <p align="center">
-  📍 <b>Nagpur, India</b>
+  📍 <b>India</b>
 </p>
 
 <!-- Social Badges -->
