@@ -43,6 +43,7 @@ Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</
 | **Analyze & Code** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" /> Python &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20" alt="Pandas" /> Pandas &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20" alt="NumPy" /> NumPy &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20" alt="PostgreSQL" /> PostgreSQL &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="MySQL" /> MySQL<br/>`SQL` `CTEs` `Window Functions` `Joins` `EDA` `Statistical Modeling` |
 | **BI & Visualization** | <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="20" alt="Power BI" /> Power BI &nbsp;&nbsp; <img src="https://api.iconify.design/logos/tableau-icon.svg" height="20" alt="Tableau" /> Tableau<br/>`DAX` `Advanced Excel` `Power Query` `Pivot Tables` `KPI Design` |
 | **Data Engineering** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="20" alt="Airflow" /> Apache Airflow<br/>`ETL / ELT` `Microsoft Fabric` `Star-Schema Modeling` `Data Validation` `Automation` |
+| **Web Development & Design** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="HTML5" /> HTML5 &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="CSS3" /> CSS3 &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React" /> React &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" alt="Next.js" /> Next.js &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="Figma" /> Figma<br/>`UI / UX Design` `Full-Stack Development` `REST APIs` `AI Vision API Integration` `JSON` |
 | **Workflow & Practices** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="20" alt="Jira" /> Jira &nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git" /> Git<br/>`Agile / Scrum` `SDLC` `GitHub` `Cross-functional Alignment` |
 
 </div>
@@ -91,9 +92,14 @@ Computer Science graduate</b> with <b>1+ years of experience as a Data Analyst</
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square" />
         <img src="https://img.shields.io/badge/AI_Vision-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI%2FUX_Design-C8577B?style=flat-square" /><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
       </p>
       <ul>
-        <li>Developed a full-stack platform using React/Next.js and Python connecting customers with verified local professionals.</li>
+        <li>Designed the complete UI and UX and developed a full-stack platform using React/Next.js and Python, connecting customers with verified local professionals.</li>
         <li>Built backend REST APIs and MySQL schemas with geolocation logic for instant proximity-based provider filtering.</li>
         <li>Integrated AI Vision API extracting JSON metadata from user images to automate service categorization.</li>
       </ul>
